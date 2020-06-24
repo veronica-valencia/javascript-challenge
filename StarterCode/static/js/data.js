@@ -996,5 +996,14 @@ var data = [{
     shape: "unknown",
     durationMinutes: "4 minutes",
     comments: "Bright orange object&#44 rapid speed and direction changes .."
+  },
+  {
+    datetime: "1/14/2010",
+    city: "atlanta",
+    state: "ga",
+    country: "us",
+    shape: "light",
+    durationMinutes: "10 minutes",
+    comments: "Three bright red lights witnessed floating stationary over San Diego New Years Day 2010"
   }
 ];
